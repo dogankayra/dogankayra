@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogankayra&label=Profile%20views&color=0e75b6&style=flat" alt="dogankayra" /> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **web development** 
 
 - 💬 Ask me about **Web development, automation systems, mobile applications and photoshop**
 
