@@ -20,5 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogankayra&theme=dark&show_icons=true)
 ![Doğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogankayra&theme=dark&show_icons=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogankayra&theme=dark&show_icons=true" alt="dogankayra" /></p>
