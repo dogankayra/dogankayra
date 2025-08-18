@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://dogankayra.com/" target="blank"><img align="center" src="" alt="dogan-kayra" height="30" width="40" /></a>
+<a href="http://dogankayra.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dogankayra.svg" alt="dogan-kayra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dogan-kayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogan-kayra" height="30" width="40" /></a>
 <a href="https://instagram.com/dogankayra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogankayra_" height="30" width="40" /></a>
 </p>
